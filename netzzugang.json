@@ -1,0 +1,5 @@
+{
+ "modus": "lan",
+ "erlaubt": [],
+ "hinweis": "modus: lan | vpn | liste. Bei vpn/liste zaehlt ausschliesslich \"erlaubt\" (Einzel-IP oder CIDR wie 10.8.0.0/24). Aenderung wirkt sofort, kein Neustart noetig."
+}

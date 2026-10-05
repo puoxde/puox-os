@@ -1,0 +1,3 @@
+# Uptime-Monitoring: eine Zeile pro Site — Format:  Name  https://url
+# Kunden-Websites in Produktion werden zusätzlich automatisch erkannt.
+example.com  https://example.com

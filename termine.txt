@@ -1,0 +1,1 @@
+# Lokale Termine (zusätzlich zum ICS-Kalender) — Zeile: YYYY-MM-DD [HH:MM] Titel

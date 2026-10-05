@@ -1,0 +1,17 @@
+{
+ "_hinweis": "Abteilungen der Map. Single Source fuer Namen, Farbe, Piktogramm, Beschreibung, Zustaendigkeiten mit Stationen und die zugeordneten Agenten. `agenten` enthaelt agent-id-Werte aus agenten/*.md; unbekannte IDs werden in der Oberflaeche still uebergangen.",
+ "abteilungen": [
+  {
+   "id": "beispiel",
+   "name": "Beispiel",
+   "kurz": "macht",
+   "farbe": "#21F1A8",
+   "icon": "kompass",
+   "beschreibung": "Beispielabteilung. Eigene Abteilungen hier eintragen.",
+   "zustaendigkeiten": [
+    {"was": "Aufgabe erledigen", "stationen": ["Anfrage aufnehmen", "Umsetzen", "Abschliessen"]}
+   ],
+   "agenten": []
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+secrets/
+tls/
+__pycache__/
+abweisungen.log
+hintergrund/
+schriften/
